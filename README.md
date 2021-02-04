@@ -2,7 +2,7 @@
 
 ## About
 
-This project is about the visualization of datasets related to the COVID-19 pandemic using PySpark and Plotly.
+This project is about the visualization of datasets related to the COVID-19 pandemic using PySpark and Plotly. It was created in Google Colaboratory and completed in December 2020.
 
 ### Objective
 
@@ -21,6 +21,4 @@ Latest version available at: https://covid.ourworldindata.org/data/owid-covid-da
 
 ## Usage
 
-In order to display the pre-generated visualizations, please access the notebook hosted in Google Colab by either:
-* Clicking on 'Data_Visualization_Project.ipynb', then on the 'Open in Colab' button at the top of the viewer
-* Clicking on the following link: https://colab.research.google.com/github/KevinRouille/covid19-pyspark-plotly/blob/main/Data_Visualization_Project.ipynb.
+Download 'Data_Visualization_Project.ipynb' and open it in Jupyter Notebook, or click on the following link to view it directly in your browser: https://colab.research.google.com/github/KevinRouille/covid19-pyspark-plotly/blob/main/Data_Visualization_Project.ipynb.
