@@ -1,8 +1,8 @@
-# covid19-pyspark-plotly
+# covid-19-pyspark-plotly | Big Data Visualization Project
 
 ## About
 
-This project is about the visualization of datasets related to the COVID-19 pandemic using PySpark and Plotly. It was created in Google Colaboratory and completed in December 2020.
+This project is about the visualization of datasets related to the COVID-19 pandemic, using PySpark and Plotly. It was completed in December 2020.
 
 ### Objective
 
