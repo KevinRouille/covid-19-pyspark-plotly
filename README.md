@@ -22,4 +22,5 @@ Latest version available at: https://covid.ourworldindata.org/data/owid-covid-da
 ## Usage
 
 Download 'Data_Visualization_Project.ipynb' and open it in Jupyter Notebook, or click on the following link to view it directly in your browser: https://colab.research.google.com/github/KevinRouille/covid19-pyspark-plotly/blob/main/Data_Visualization_Project.ipynb.
+
 In addition, a 5-minute video report with captions is available at: https://youtu.be/I5kwqx8InNM.
